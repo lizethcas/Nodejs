@@ -1,0 +1,19 @@
+{
+  "name": "aplicacioncli",
+  "version": "1.0.0",
+  "description": "contactos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fs": "^0.0.1-security",
+    "nanoid": "^4.0.2",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7"
+  }
+}
